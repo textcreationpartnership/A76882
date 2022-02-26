@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Bloody husband, and cruell neighbour. Or, A true historie of two murthers, lately committed in Laurence Parish, in the Isle of Thanet in Knet, neer Sandwich: one murther by the hands of Adam Sprackling Esquire, who upon the 12th day of December last, being Sabbath day; in the morning, cut, mangled, and murthered his own wife; for which fact he was hanged at Sandwich upon Wednesday the 27th day of April last, 1653. The other the murther of Richard Langly, of the same parish, whose blood also (as is here shewed) cryed against the said Mr. Sprackling, written by one that lives neer the place where the said murthers were committed, and was present at Mr. Sprackling's tryall; and published for the warning, and good of all. May 13. 1653. Imprimatur, Edm. Calamy.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76882</idno>
+            <idno type="STC">Wing B3254</idno>
+            <idno type="STC">Thomason E697_10</idno>
+            <idno type="STC">ESTC R207095</idno>
+            <idno type="EEBO-CITATION">99866167</idno>
+            <idno type="PROQUEST">99866167</idno>
+            <idno type="VID">118431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118431)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E697[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Bloody husband, and cruell neighbour. Or, A true historie of two murthers, lately committed in Laurence Parish, in the Isle of Thanet in Knet, neer Sandwich: one murther by the hands of Adam Sprackling Esquire, who upon the 12th day of December last, being Sabbath day; in the morning, cut, mangled, and murthered his own wife; for which fact he was hanged at Sandwich upon Wednesday the 27th day of April last, 1653. The other the murther of Richard Langly, of the same parish, whose blood also (as is here shewed) cryed against the said Mr. Sprackling, written by one that lives neer the place where the said murthers were committed, and was present at Mr. Sprackling's tryall; and published for the warning, and good of all. May 13. 1653. Imprimatur, Edm. Calamy.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Warren.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 19.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England --  Kent --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118431:1" rendition="simple:additions"/>
+            <p>THE BLOODY HUSBAND, AND CRVELL NEIGHBOVR.</p>
+            <p>Or, A True Hiſtorie Of <hi>TWO MVRTHERS,</hi> Lately committed in <hi>Laurence</hi> Pariſh, in the Iſle of <hi>Thanet</hi> in <hi>Kent,</hi> neer <hi>Sandwich:</hi>
+            </p>
+            <p>One Murther By the hands of <hi>Adam Sprackling</hi> Eſquire, who upon the 12th day of <hi>December</hi> laſt, being Sabbath day; in the morning, cut, mangled, and murthered his own wife; for which fact he was hanged at <hi>Sandwich</hi> upon Wedneſday the 27th day of <hi>April</hi> laſt, 1653.</p>
+            <p>The other The Murther of <hi>Richard Langly,</hi> of the ſame Pariſh, whoſe blood alſo (as is here ſhewed) cryed againſt the ſaid Mr. <hi>Sprackling,</hi>
+            </p>
+            <q>
+               <bibl>Numbers 35.33.</bibl>
+               <p>Blood defileth the Land, and the Land cannot be clenſed of the blood that is ſhed therein, but by the blood of him that ſhed it.</p>
+            </q>
+            <p>Written by one that lives neer the Place where the ſaid Murthers were committed, and was preſent at Mr. <hi>Sprackling</hi>'s tryall; And publiſhed for the warning, and good of all.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>
+                           <hi>May</hi> 13. 1653. <hi>Imprimatur,</hi>
+                        </p>
+                        <closer>
+                           <signed>Edm. Calamy</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Warren.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118431:2"/>
+            <pb n="1" facs="tcp:118431:2"/>
+            <head>THE BLOODY HUSBAND, AND Cruell Neighbour, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">G</seg>OD that made man after his own I<g ref="char:EOLhyphen"/>mage, made a Law, <hi>Gen.</hi> 9.6. <hi>Who ſo ſheddeth mans blood, by man ſhall his blood be ſhed; for, in the Image of God made he man.</hi> Againſt this ſin of Mur<g ref="char:EOLhyphen"/>ther, the wrath of God hath been revea<g ref="char:EOLhyphen"/>led from heaven, by his juſt and daily revengings of innocent blood upon Murtherers. Trea<g ref="char:EOLhyphen"/>ſurers of Examples of Judgements in this kind, both old and new, ly before us; From the time of bloudy <hi>Cain,</hi> to the blood thirſty Popiſh Rebels in <hi>Ireland,</hi> to which ſlaughter men of the Scarlet whore of <hi>Rome,</hi> God hath given plenty of blood to drink. We ſee bloody men dai<g ref="char:EOLhyphen"/>ly cut off by the Sword of Juſtice in all places. The late Execution of the Wife-murtherer at <hi>Iſlington,</hi> neer <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> And the late Murthers in the Iſle of <hi>Thanet</hi> in the County of <hi>Kent,</hi> and the judgement of God on the Mur<g ref="char:EOLhyphen"/>therers, call for a book, wherein they may be written for examples to the Generations preſent and to come.</p>
+            <p>
+               <hi>Adam Sprackling</hi> Eſquire, of St. <hi>Laurence</hi> Pariſh in that Iſle, about 20. year ſince, married <hi>Katherine,</hi> the
+<pb n="2" facs="tcp:118431:3"/>
+Daughter of Sir <hi>Robert Leukner,</hi> of <hi>Kent;</hi> This Gentle<g ref="char:EOLhyphen"/>man having a fair eſtate in Lands, and being above thou<g ref="char:EOLhyphen"/>ſands of his Nelghbours in Eſtate, wanting the grace of Humility, exalted himſelf above meaſure, affected pre<g ref="char:EOLhyphen"/>heminence in all Companies, uſed, in his braveries, long hair, <hi>&amp;c.</hi> to ride about the Iſland, and frequent Tap<g ref="char:EOLhyphen"/>houſes, and there to Rant and roar, game and ſwear ex<g ref="char:EOLhyphen"/>ceedingly, upon the leaſt provocation, and uſed to quar<g ref="char:EOLhyphen"/>rell and draw his weapon, <hi>&amp;c.</hi> He regarded not the Sab<g ref="char:EOLhyphen"/>bath, but prophan'd it at home; The publick worſhip of God, and Preaching of the Word, he ſeldome or never attended; delighted much in the company of drunken Miniſters. This man, having much waſted his eſtate by his riotous courſes, was of late purſued with arreſts and ſutes at Law for debts, which he had contracted; and divers that entred into bond for him left to ruine, and impriſon<g ref="char:EOLhyphen"/>ment; Maſter <hi>Sprackling</hi> had Executions out againſt him, and Bailiffs ready to apprehend him, whereby he was conſtreined to make his own houſe his priſon, to keep home, and could not dominier abroad, and ride a<g ref="char:EOLhyphen"/>bout as heretofore. Upon this occaſion he grew ſad, cho<g ref="char:EOLhyphen"/>lerick, and petulent, and full of rage in his houſe; His Wife being divers times conſtreined to lock up her ſelf from him. She was a woman of precious report for ma<g ref="char:EOLhyphen"/>ny vertues, and (with <hi>Mary</hi>) did chooſe the better part: But upon Saturday at night <hi>December</hi> 11. laſt, Ma<g ref="char:EOLhyphen"/>ſter <hi>Sprackling</hi> being reſolved to miſchief her, as the ſe<g ref="char:EOLhyphen"/>quel manifeſted, He then being in the Kitchin of his houſe, had one <hi>Lamming</hi> a neighbour of his with him, and he then ſent for one <hi>Knowler</hi> a Sea-man to come to him; but it being ten of the clock at night, he deſired to be excuſed, ſaying he was in bed; whereupon Maſter <hi>Sprackling</hi> ſent for one <hi>Martin,</hi> a poor old man, a Tenant, and neighbour of his, who (though in bed) did ariſe and
+<pb n="3" facs="tcp:118431:3"/>
+come to Maſter <hi>Sprackling,</hi> and then <hi>Lamming</hi> deſired that he might go home, which requeſt Maſter <hi>Sprackling</hi> granted. So there remained Maſter <hi>Sprackling</hi> and his Wife, and <hi>Martin,</hi> and one <hi>Ewell,</hi> ſervant to Maſter <hi>Sprackling,</hi> theſe four only in the Kitchin; His Daughter and Maid-ſervant got away (ſeeing his rage) and locked themſelves all night in an out-room far from the Kitchin. Mr. <hi>Sprackling</hi> would not go to bed, though it grew late, but commanded <hi>Martin</hi> to bind <hi>Ewells</hi> legs, which he did accordingly with a dogs couplings, and ſo <hi>Ewell</hi> ſat bound all night after on the ground. <hi>Martin</hi> and <hi>Ewell</hi> conceived it only a frolick or ranting fit or humour come on him, ſuch as they had been formerly acquainted with.</p>
+            <p>Then he began to rage againſt his Wife, who ſate quietly there: her words to him were full of loving and ſweet expreſſions; but he on a ſudden drew his Dagger, and ſtruck her with it on the face, which blow hurt her jaw; but ſhe was very patient, and ſayd little to him; but he ſtill raged againſt her; And towards morning the good Gentlewoman being weary, and in great fear, roſe up to go out of the room, and lifting up her hand to open the dore, her Husband following her with a chopping-knife in his hand, cut her wriſt therewith, ſo, that the bone was cut in ſunder; her hand hung down only by the ſi<g ref="char:EOLhyphen"/>newes and skin; No help was neer, <hi>Ewell</hi> bound, and <hi>Martin</hi> old and weak, and fearing his own life, durſt not interpoſe, but only prayed his Miſtris to ſtay and be quiet, he ſayd he hoped all would be well; And <hi>Martin</hi> got a napkin and bound up her hand with it. After this, towards morning, Mr. <hi>Sprackling,</hi> raging and rayling at her, daſh<g ref="char:EOLhyphen"/>ed her on the forehead with the Iron Cleaver or Chop<g ref="char:EOLhyphen"/>ping-knife. Then ſhe fell down bleeding, but recovered her ſelf on her knees, and kneeling cryed, and prayed to
+<pb n="4" facs="tcp:118431:4"/>
+God for pardon of her own ſins, and of her Husbands ſin, beſeeching God to forgive him, for ſhe forgave him. But, in the time of her praying thus, her Husband chopt her head in the midſt into the brains, ſo that ſhe fell down ſtark dead inſtantly, lying in her own blood; Then he killed ſix dogs, four of which he threw beſides his wife, and after ſhe was dead, he cut her in the leg in two places, and compelled <hi>Martin</hi> to waſh <hi>Ewells</hi> face with her blood, he alſo dipped linnen in her blood, and beſmeared <hi>Martin's</hi> face with her blood, and bebloudied his own face with it.</p>
+            <p>For this Fact Maſter <hi>Sprackling</hi> was apprehended that night, having his Dagger in one hand, and Piſtoll in the other hand; but he was ſurprized, and taken by one <hi>Martin Brook.</hi> The next day he was carried to <hi>Sandwich</hi> Jayl: And after the Maior of <hi>Sandwich</hi> (being Coroner) and his Inqueſt had ſate upon the death of this Gentle<g ref="char:EOLhyphen"/>woman, <hi>Martin</hi> alſo was ſent to Priſon. The Seſſions at <hi>Sandwich</hi> followed on Friday the 22. of <hi>April</hi> laſt. The Steward of the Court Mr. <hi>Peter Peak</hi> a Counſellour of <hi>Grayes</hi>-Inne, gave a godly and learned charge to the Grand Inqueſt, and, after mention of many ſins, he ſpake of the crying ſin of Murther, what a land-defiling and God-provoking ſin it was, as he evidenced by many ex<g ref="char:EOLhyphen"/>amples; As, of the Sword not departing from the houſe of <hi>David,</hi> for his murther of <hi>Uriah,</hi> by the Sword of the Ammonites; For the blood of <hi>Naboth,</hi> the dogs lickd the bloud of <hi>Ahab,</hi> and threeſcore and ten ſons of his had their bloud ſhed afterward, and dogs did eat bloudy <hi>Jezabel;</hi> The ſons of bloudy <hi>Saul</hi> hang'd up, <hi>&amp;c.</hi> And, for the direction of the Court, he came to ſome caſes of Mur<g ref="char:EOLhyphen"/>ther, ſhewing in ſuch caſes there was malice expreſt, ma<g ref="char:EOLhyphen"/>lice implyed, malice ſupplyed. Malice expreſt, and Mur<g ref="char:EOLhyphen"/>ther thereupon, is ordinary: but if a man intend malici<g ref="char:EOLhyphen"/>ouſly
+<pb n="5" facs="tcp:118431:4"/>
+to kill one, and it fall out, that he kill not the party, which he deſired to miſchief, but another, it is murther. He ſhewed out of his Law-books, that a Father-in-law procured phyſick for his ſick Son-in-law; The Phyſician preſcribed a comfortable Medicine, which the Apothe<g ref="char:EOLhyphen"/>cary made accordingly of ſeverall Ingredients; The Son-in law took ſome of it, but it had almoſt killed him, though cordiall Phyſick; The Father-in-law went to the Doctor of Phyſick, and told him how the Cordiall wrought; Hereupon the Apothecary was ſent for, and examined touching the Ingredients; He replied, he had put nothing in, but as the Phyſician directed, and that he knew the phyſick ſo Cordiall, that he would take it himſelf, and, to juſtifie himſelf, did take part of that Medicine; but, he ſoon dyed: Afterwards it was found out, that the wife of the ſick man had put poyſon in the Medicine, thinking thereby to poyſon her Husband; but, he being of a ſtronger nature than the Apothecary, did eſcape, though hardly: but the woman was executed for the Apothecaries death, though ſhe intended not his death, becauſe there was malice expreſt, murther intended.</p>
+            <p>Malice implyed was where no expreſſion of malice in words, <hi>&amp;c.</hi> appeared in the ſlayer; as if a Son put his aged Father out of dores in a froſty night, and he dy, its murther; <hi>Non refert an occidat, an cauſam mortis praebeat.</hi> If two be together, and, no provocation given or known, one kill the other, there is malice implied; it's Murther.</p>
+            <p>Malice ſupplied, this he ſhewed in two Children in King <hi>Henry</hi> the ſeventh's time, one nine year old, the other ele<g ref="char:EOLhyphen"/>ven; one kill'd the other, and, becauſe the ſlayer denyed the fact, and cunningly by excuſes ſought to hide it, and to acquit himſelf of it, it was found Murther; Malice was ſupplyed in Law, to be in the Child though not of compe<g ref="char:EOLhyphen"/>tent age, and the Child was thereupon executed.</p>
+            <p>
+               <pb n="6" facs="tcp:118431:5"/>After the Grand Inqueſt had received the Bill of In<g ref="char:EOLhyphen"/>dictment, which was preſented in Court by Mr. <hi>Steward Leukner,</hi> brother of Mr. <hi>Spracklings</hi> wife, the Inqueſt go<g ref="char:EOLhyphen"/>ing together, returned to the Bar, finding both Mr. <hi>Sprack<g ref="char:EOLhyphen"/>ling,</hi> and <hi>Martin</hi> guilty of the Murther of Miſtris <hi>Sprackling.</hi> After dinner the Jury of life and death was called, Mr. <hi>Sprackling</hi> and <hi>Martin</hi> pleaded not guilty; and referred themſelves to a fair tryall: Mr. <hi>Sprackling</hi> held up his trembling hand at the Bar; but when the Jury came one by one to be ſworn, he excepred againſt, and put by 20. of them, ſhewing no reaſon for it; but, he not being permitted by Law to except againſt any more, with<g ref="char:EOLhyphen"/>out ſhewing reaſon for it, a Jury was at laſt filled up and ſworn. And the murther as before rehearſed, was pro<g ref="char:EOLhyphen"/>ved by <hi>Ewell;</hi> (for <hi>Martin</hi> being a Priſoner and party, could give no evidence.)</p>
+            <p>Mr. <hi>Sprackling</hi> pleaded for himſelf, that he was mad when he kill'd his Wife; and that he knew not what he did: but <hi>Lamming,</hi> being depoſed, teſtified, that when he left Mr. <hi>Sprackling,</hi> that Saturday night, he perceived no diſtemper in him, but that he was as he uſed to be at other times: And <hi>Joſeph Cowell</hi> his Tenant, who ſaw him that Sabbath after the Murther done, teſtified that he was as he uſed to be, only he ſpake thick, and often of bloud, blood, blood. And it was teſtified by <hi>Roger Streven,</hi> who ſaw him next morning after the fact, when he went to Priſon; He depoſed that he ſaw no ſign of diſtraction in him, but was rationall in his diſcourſe, and provided a Wagon with a bed in it for his conveyance to <hi>Sandwich</hi> Priſon; And <hi>Roger Streven</hi> depoſed, that he heard it af<g ref="char:EOLhyphen"/>firmed that Mr. <hi>Sprackling</hi> ſaid after his wife was dead, now let us kill the Dogs, and then they'l ſay we are mad indeed.</p>
+            <p>And ſince the Tryall, it is known that Mr. <hi>Sprackling</hi>
+               <pb n="7" facs="tcp:118431:5"/>
+writ a Letter that Saturday morning to <hi>Roger Hooper,</hi> a Sea-man, to buy him Goods at <hi>London,</hi> and ſuch, and ſuch Books; and, to pay money at <hi>London</hi> for him; which Letter was rationall, in his uſuall form of writing. And ſince the tryall alſo, Mr. <hi>Hopeſtill Tilden</hi> of <hi>Sand<g ref="char:EOLhyphen"/>wich</hi> affirmed in the hearing of many, that he being di<g ref="char:EOLhyphen"/>vers times with Mr. <hi>Sprackling</hi> in Priſon, heard him ſay, he kill'd his Wife, becauſe ſhe was a traitour to him, and ſayd, that if it were your caſe <hi>Hopeſtill,</hi> you would do the like to ſuch a Wife that went about to betray you, and undo you, and deliver you to the Bailiffs. And, I ſince hear, he affirmed the ſame to another, that morn<g ref="char:EOLhyphen"/>ing he went to Priſon, ſaying, ſhe left the dores open on purpoſe, <hi>&amp;c.</hi> And for further Evidence at the tryall, many witneſſes were called and ſworn, that teſtified, that this bloudy Oxe did uſe to puſh in former time; and, that it was not a fit of frenzy at that time of the Murther rehearſed; but, that he was of an habitual bloody diſpo<g ref="char:EOLhyphen"/>ſition and practiſe. One <hi>John Ruſſell</hi> depoſed, that about twenty year before, he ſaw Mr. <hi>Sprackling</hi> endeavour to run one <hi>John Simons</hi> through with his naked Rapier, in St. <hi>Peters</hi> Pariſh, at a Tap-houſe there, and had nayled him to the wall, had not he took hold on the hilt of the Rapier; and, that in another Tap-houſe there, he ſaw Mr. <hi>Sprackling</hi> quarrell with one <hi>Giles,</hi> and drew his Sword at him; but, the Deponent did not follow Maſter <hi>Sprackling</hi> into the next Room where <hi>Giles</hi> was; but, he ſaw <hi>Giles</hi> come bleeding out.</p>
+            <p>One <hi>Robert Liſter</hi> depoſed, that Mr. <hi>Sprackling</hi> being worſted in a quarrell in a Tap-houſe in that Pariſh, lay there at one <hi>Homans</hi> all night, and ſent for his man <hi>Corſ<g ref="char:EOLhyphen"/>let,</hi> his Champion, and next day morning, in cold blood, commanded his man <hi>Corſlet</hi> to fall on the ſaid <hi>Robert Li<g ref="char:EOLhyphen"/>ſter,</hi> which he did preſently, and ſtrook the ſaid <hi>Liſter</hi> on
+<pb n="8" facs="tcp:118431:6"/>
+the jaw with a cudgell, whereby a tumult aroſe; but, company parted them: And one <hi>Goble,</hi> a Shoemaker, was run into the bowells, in that Pariſh, another time, when Mr. <hi>Sprackling</hi> was in the affray.</p>
+            <p>
+               <hi>Edward Taddy</hi> depoſed, that he being Conſtable, did aſſiſt <hi>Humphery Pudner,</hi> the Maior of <hi>Dovers</hi> Deputy, at St. <hi>Johns</hi> pariſh, and <hi>Richard Langley,</hi> Deputy to the Maior of <hi>Sandwich,</hi> at St. <hi>Laurence</hi> Pariſh, when they three had an Order to diſarm Mr. <hi>Sprackling,</hi> and, having taken and ſecured the Arms in his houſe, Mr. <hi>Sprackling</hi> aſſaulted the ſaid <hi>Edward Taddy,</hi> when he met him ſome moneths after; And <hi>Humphrey Pudner</hi> depoſed, that he drew upon him alſo in the ſtreet; and, that he being Offi<g ref="char:EOLhyphen"/>cer, diſarm'd Mr. <hi>Sprackling</hi> in an affray, which he made in a Taphouſe in St. <hi>Johns</hi> Pariſh; And <hi>William Grant</hi> depoſed, that in that Pariſh he drew at him, and had cleav'd his head with his Cutlaſh, if he had not put by the blow. Others were ready to depoſe many ſuch bloody aſſaults done by Mr. <hi>Sprackling:</hi> But (above all) the death of <hi>Richard Langley</hi> of St. <hi>Laurence</hi> Pariſh, was mentioned in Court. This <hi>Richard Langley</hi> was a very godly man, zealous for God and the State, had ſeized on Mr. <hi>Spracklings</hi> Arms, and Articled againſt him, ſo that Mr. <hi>Sprackling</hi> was ſecured at <hi>Canterbury,</hi> at the firſt of the Parliament: But Mr. <hi>Sprackling</hi> (being at liberty in the year 1648.) the day before the Kentiſh Inſurrection burſt out, armed horſe and men, and went down from his own houſe to the Sea-town there, called <hi>Ramſgate;</hi> that is Romans-gate, where the Romans firſt Landed when they ſubdued this Nation: And <hi>Richard Langley</hi> living there, was ſought for; but, he hid himſelf in his houſe for a time; but, hearing that Mr. <hi>Sprackling</hi> was there at the Tavern with Horſe and Arms, and a rude crew with him, <hi>Langley</hi> crept out of his own houſe, and
+<pb n="9" facs="tcp:118431:6"/>
+ſtole away, and got to one Miſtris <hi>Johnſons</hi> houſe, and making his ſad caſe known, how Mr. <hi>Sprackling</hi> ſought his blood, The good Gentlewoman lent him her Mare, and <hi>Langley</hi> preſently fled out: but, Mr. <hi>Sprackling,</hi> hea<g ref="char:EOLhyphen"/>ring that <hi>Langley</hi> was got away, his two men, <hi>Allen</hi> and <hi>Emerſom,</hi> went after him; One Maſter <hi>John John<g ref="char:EOLhyphen"/>ſon</hi> depoſed, that he ſaw them ride af<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er <hi>Langley,</hi> ſo ſoon as <hi>Langley</hi> was got on horſe-back, and that Mr. <hi>Sprack<g ref="char:EOLhyphen"/>ling</hi>'s horſe purſued, and they had their Piſtolls preſen<g ref="char:EOLhyphen"/>ted, as they rid by Miſtris <hi>Johnſons</hi> Gate after <hi>Langley,</hi> whom they overtook about two miles off, and there he was ſhot through his body with a brace of bullets, which entred his back, and came forth at his breaſt, and ſo he was left wallowing in his blood, and died preſently, lea<g ref="char:EOLhyphen"/>ving behind him a Widow and thirteen Orphans in a ſad condition. Whereupon <hi>Paul Allen</hi> fled, and is not yet taken: But <hi>Emerſom,</hi> though he were af<g ref="char:EOLhyphen"/>terwards a Souldier in that Inſurrection, Yet he was ap<g ref="char:EOLhyphen"/>prehended and Executed at <hi>Canterbury.</hi> It was not pro<g ref="char:EOLhyphen"/>ved that Mr. <hi>Sprackling</hi> commanded them to kill <hi>Lang<g ref="char:EOLhyphen"/>ley;</hi> But it's certain, that Mr. <hi>Sprakling</hi> was Commander in chief there that day, and acted as Commiſſioner, and ſent for divers honeſt men, and impriſoned ſome in his houſe, and afterwards went to Sea, and continued with the R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>volted Ships. And it was depoſed at Maſter <hi>Sprackling</hi>'s tryall, that he had often threatned <hi>Richard Langley,</hi> and that before <hi>Richard Langley</hi> was m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rthered, M. <hi>Sprackling</hi> ſeeing him in the ſtreet, drew his Sword at him, and flouriſhed it over his own head, and was ready to aſſault <hi>Richard Langley,</hi> but was prevented by others. And it was depoſed alſo that before the Mur<g ref="char:EOLhyphen"/>ther of <hi>Richard Langley,</hi> Mr. <hi>Sprackling</hi> went out of the Tavern and purſued <hi>Langley</hi> to his own houſe with naked weapon in his hand, and there call'd for him, and ſought
+<pb n="10" facs="tcp:118431:7"/>
+him, but not finding him departed, and going out, let fall his Piſtoll in the entry of <hi>Langley</hi>'s houſe, which Piſtoll the Witneſſe ſaw there, and took it up.</p>
+            <p>After the Court had heard the Evidence againſt Ma<g ref="char:EOLhyphen"/>ſter <hi>Sprackling,</hi> leave was given him to ſpeak for him<g ref="char:EOLhyphen"/>ſelf, and to bring what witneſs he pleaſed in his defence, he and they ſhould be fairly heard. He named two Law<g ref="char:EOLhyphen"/>yers for his aſſiſtance in form of Law, but none appeared. Two Phyſicians appeared in Court for him, and ſome women, to prove he was mad: but they ſpake only gene<g ref="char:EOLhyphen"/>rall things; only one Phyſician depoſed, that he had let him blood four times together in a fever, about a year be<g ref="char:EOLhyphen"/>fore, and that then he was in a diſtracted fitt; but none could ſwear he was diſtracted, neer, at, or after the Murther committed; only that he uſed to be outragious in paſſion, <hi>&amp;c.</hi>
+            </p>
+            <p>The Jury, giving up their Verdict, ſaid, they found Mr. <hi>Sprackling</hi> guilty of wilfull Murther.</p>
+            <p>But they acquitted <hi>Martin,</hi> having no proof that he had Combined to kill the Gentlewoman, or aſſiſted in killing her; but that, meerly out of fear of death to himſelf, he was willing to humour his Maſter in binding <hi>Ewell,</hi> and in praying Mrs. <hi>Sprackling</hi> to ſtay: and <hi>Ewell</hi> upon oath ſayd, that he could not ſwear that he ſaw <hi>Martin</hi> lay hands on her, to keep her from going out, and <hi>Martin</hi> having alſo a good teſtimoniall of all his neighbours, of his peaceable and harmleſs life. The ſentence of death being pronounced by the Maior of <hi>Sandwich</hi> againſt Ma<g ref="char:EOLhyphen"/>ſter <hi>Sprackling;</hi> Maſter <hi>Peak,</hi> the Steward, made a pa<g ref="char:EOLhyphen"/>theticall exhortation to Mr. <hi>Sprackling</hi> to repent; he ſhew<g ref="char:EOLhyphen"/>ed him the heinouſneſs of the fact, and aggravated it in regard of the murthered Gentlewomans worth, in the ad<g ref="char:EOLhyphen"/>mirable graces and vertues that ſhined forth in her, <hi>&amp;c.</hi> But Mr. <hi>Sprackling</hi> anſwered; <hi>No man can judge between
+<pb n="11" facs="tcp:118431:7"/>
+man and wife, but God alone,</hi> and ſhewing ſmall token of Repentance, or of care for his ſoul, He only requeſted then, that his body might be delivered to four women, which he named in open Court. Being returned to Pri<g ref="char:EOLhyphen"/>ſon, he refuſed Conference with any, from his Judge<g ref="char:EOLhyphen"/>ment to his death. Divers godly Gentlemen and Mini<g ref="char:EOLhyphen"/>ſters deſired to ſpeak to him, but he would admit none. There was a Lecture at <hi>Sandwich</hi> upon the day of his Execution. The Jayl joyned to the yard of the Church, where the Lecture was preached; yet he would not ſo much as ſend to be prayed for: But the Lecturer (Ma<g ref="char:EOLhyphen"/>ſter <hi>John Durant</hi>) prayed earneſtly for him. In Priſon he ſpake of Receiving the Sacrament by the miniſtring of Mr. <hi>Edward Fellows,</hi> but did not receive it.</p>
+            <p>Upon the 27. day of <hi>April</hi> laſt, Mr. <hi>Sprackling</hi> being ready to go to Execution, deſired the Sheriff of <hi>Sand<g ref="char:EOLhyphen"/>wich</hi> to make a guard, that no man, Miniſter, or other, might come neer to ſpeak with him. He had notes in writing at his Execution to look on; He confeſſed in ge<g ref="char:EOLhyphen"/>nerall that he was a ſinner, and deſerved death, <hi>&amp;c.</hi> Two Miniſters preſt neer him, and call'd upon him to conſider his condition, and to glorifie God by a free Confeſſion, and exhortation to the people, there being (as was con<g ref="char:EOLhyphen"/>ceived) at leaſt 2000. at his Execution; but he deſired the Miniſters not to trouble him: But one of the Miniſters preſſed <hi>Langley</hi>'s death upon him, and deſired him to diſ<g ref="char:EOLhyphen"/>charge his conſcience in that, whether he were guilty or not; now was the time; as the tree falls, ſo it lyes; But Mr. <hi>Sprackling</hi>'s anſwer was; <hi>Sir, I have made my confeſ<g ref="char:EOLhyphen"/>ſion to God, I pray trouble me not; man hath nothing to do with it, I pray ſpeak no more of it.</hi>
+            </p>
+            <p>This is a ſad preſumption of his guiltineſs of <hi>Langley</hi>'s death; and that the report is true, which ſaith that Ma<g ref="char:EOLhyphen"/>ſter <hi>Sprackling,</hi> when he ſent <hi>Allen</hi> and <hi>Emerſon</hi> after
+<pb n="12" facs="tcp:118431:8"/>
+               <hi>Richard Langley,</hi> and bid them bring him dead or alive: If he had not appointed them to kill <hi>Langley,</hi> he would now have diſclaimed the fact; And who would not have believ'd a dying man? It was the ſaying of many godly wiſe people, when they heard of Mr. <hi>Sprackling</hi>'s murther of his Wife, that they were perſwaded that the cry of <hi>Richard Langley</hi>'s blood did move the blood<g ref="char:EOLhyphen"/>avenging God to leave Mr. <hi>Sprackling</hi> to fall to that Wife-murther, that ſuch a blood-thirſty man might not go to the Grave in peace.</p>
+            <p>He was hanged in his Cloak, And afterwards put into a Coffin cloaths and all at the Gallows, and after ſtrip<g ref="char:EOLhyphen"/>ped, and layd forth, and coffined at the ſign of the three Kings in <hi>Sandwich;</hi> and the next day towards night car<g ref="char:EOLhyphen"/>ried from thence ſix miles on mens ſhoulders over the Ferry to St. <hi>Lawrence</hi> Chur<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, where in the night he was buried neer his Wife.</p>
+            <p>This is the true Hiſtory of theſe bloody practiſes: God brings light out of darkneſs, and the glory of his Juſtice out of the ſin, ſhame, and deſtruction of the wic<g ref="char:EOLhyphen"/>ked; They are not all ſweet flowers from which the Bees gather hony: All truth is written for our Inſtruction.</p>
+            <p>Learn</p>
+            <p n="1">1. <hi>Let him that ſtands take heed leſt he fall; All men are ſubject to the ſame infirmities, and temptations; Walk circumſpectly, pray continually, leſt ye enter into Temp<g ref="char:EOLhyphen"/>tation.</hi>
+            </p>
+            <p n="2">2. <hi>Forſake not God, by forſaking his Sabbaths, Mini<g ref="char:EOLhyphen"/>ſtry of the Word,</hi> &amp;c. <hi>leſt Gods Spirit forſake thee, and thou be given up to Satan to be led captive by him at his will.</hi>
+            </p>
+            <p n="3">3. <hi>Let all ranting and prodigall ones, my young Ma<g ref="char:EOLhyphen"/>ſters and others, learn here the bitter ſequels of riot and waſte: Beſides a world of evils, it brings want, want di<g ref="char:EOLhyphen"/>ſtraction,
+<pb n="13" facs="tcp:118431:8"/>
+diſcontent between the neereſt Re<g ref="char:EOLhyphen"/>lations.</hi>
+            </p>
+            <p n="4">4. <hi>Take heed you marry in the Lord. 'Tis not a brave Spark that can mannage his Rapier well,</hi> &amp;c. <hi>that you can expect to live well with, if there be not grace in the heart.</hi>
+            </p>
+            <p n="5">5. <hi>Take heed of malice and wrath, and bloody minded<g ref="char:EOLhyphen"/>neſs, and of bloody attempts and practiſes: Deliver me from blood guiltineſs, O God.</hi>
+            </p>
+            <p n="6">6. <hi>Take heed of the company of the wicked, eſpecially of bloody men: It had like to have coſt poor</hi> Martin <hi>his life.</hi>
+            </p>
+            <p n="7">7. <hi>Pray that our Higher powers moy take to heart the want of Government in the Port part of the Iſle of</hi> Tha<g ref="char:EOLhyphen"/>net <hi>in</hi> Kent, <hi>which part is ſo far from Juſtice, that it is full of prophaneſs; When the ſhire-part of the Iſle, where Juſtice is neer and active, is better Reformed. I do humbly wiſh that all the Iſle be made Shire, or a Corporation ſet up in the Port-part: Drunkenneſs, Swearing, Sabbath-breaking,</hi> &amp;c. <hi>none to put ſuch to ſhame; a Maiors Deputy hath no power, the remedy is worſe than the diſeaſe, to go ſo many miles to Complain to the Maiors; But Gods Ju<g ref="char:EOLhyphen"/>ſtice acts where mans doth not. Not a year paſſeth there, but a Drunkard breaks his neck off his horſe, or over the Cliff: Two have hanged themſelves within a year laſt paſt, one on Eaſter Monday laſt, being actually drunk, hangd himſelf.</hi>
+            </p>
+            <p n="8">8. <hi>Pray that a ſetled godly able Miniſtry may be eſta<g ref="char:EOLhyphen"/>bliſhed in the Pariſh where this Maſter</hi> Sprackling <hi>lived; where theſe bloody and ungodly Practiſes prevail: The dark corners of the Earth are full of the habitations of Cruel<g ref="char:EOLhyphen"/>ty. There are many thouſand ſouls, yet not ten pounds a year ſetled for the maintenance of a Miniſter:</hi> Richard Langley <hi>procured the caſting out of the unſavory ſalt
+<pb n="14" facs="tcp:118431:9"/>
+there; And be dyed in the time of his zealous actings to procure maintenance for an able Miniſter.</hi>
+            </p>
+            <p n="9">9. <hi>Look upon this godly Gentlewoman, and</hi> Richard Langley, <hi>lying in their blood, mangled and ſlain, and ſee what may befall the deareſt ſervants of God in this world: and prepare for the like tryalls. They that will live godly in Chriſt Jeſus, ſhall ſuffer perſecution.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
